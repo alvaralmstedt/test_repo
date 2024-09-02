@@ -1,2 +1,3 @@
 # test_repo
-hej
+
+to run `python test.py`
